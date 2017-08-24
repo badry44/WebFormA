@@ -4,5 +4,9 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
+<<<<<<< HEAD
     <p>hell world</p>
+=======
+    <p>bla bal bal</p>
+>>>>>>> origin/master
 </asp:Content>
