@@ -77,3 +77,6 @@ c:\users\lenovo\documents\visual studio 2015\Projects\WebApplication1\WebApplica
 c:\users\lenovo\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 c:\users\lenovo\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
 c:\users\lenovo\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\WebForm\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\WebForm\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\lenovo\Documents\GitHub\WebForm\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
